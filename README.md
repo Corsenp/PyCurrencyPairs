@@ -1,6 +1,6 @@
 # PyCurrencyPairs
 
-PyCurrencyPairs (Assignment 4) is a school project and with a given number of different currencies, will calculate the exchanges rate on each one of them
+PyCurrencyPairs (Assignment 5) is a school project and with a given number of different currencies, will calculate the exchanges rate on each one of them
 
 ## Installation
 
